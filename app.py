@@ -25,10 +25,10 @@ Options are financial instruments that give their holders the right, but not the
 The first and most straightforward way options derive value is through **intrinsic value**, which depends on the relationship between the stock price and the strike price.
 
 - For a **call option**, which is the right to buy the stock, the intrinsic value is the difference between the stock price and the strike price, if the stock price is higher. If the stock price is lower than the strike price, the option has no intrinsic value because it would be cheaper to buy the stock on the open market.
-  - Example: If the stock price is $120 and the strike price is $100, the call option has an intrinsic value of $20.
+  - Example: If the stock price is \$120 and the strike price is \$100, the call option has an intrinsic value of \$20.
   
 - For a **put option**, which is the right to sell the stock, the intrinsic value is the difference between the strike price and the stock price, if the stock price is lower. If the stock price is higher, the option has no intrinsic value because it would be better to sell the stock on the market.
-  - Example: If the stock price is $80 and the strike price is $100, the put option has an intrinsic value of $20.
+  - Example: If the stock price is \$80 and the strike price is \$100, the put option has an intrinsic value of \$20.
 
 Options with intrinsic value are called **in-the-money** options. Those without intrinsic value are **out-of-the-money**, and their price comes entirely from other factors.
 
