@@ -39,7 +39,7 @@ Options with intrinsic value are called **in-the-money** options. Those without 
 Options have value beyond intrinsic value because of the potential for the stock price to move favorably before the option expires. This is called **time value**, and it reflects the uncertainty about where the stock price will go in the future. 
 
 - A longer time to expiration increases the option’s time value because there is more time for the stock price to make a significant move.
-- For example, if a stock is trading at $100 and a call option has a strike price of $110, the option might currently have no intrinsic value. However, if there are six months until expiration, the stock has time to rise above $110, giving the option potential future value.
+- For example, if a stock is trading at \$100 and a call option has a strike price of \$110, the option might currently have no intrinsic value. However, if there are six months until expiration, the stock has time to rise above \$110, giving the option potential future value.
 
 As the expiration date approaches, the time value decreases because there is less opportunity for the stock price to move. This is known as **time decay** and accelerates as the option nears its expiration date. By expiration, the option’s value will be entirely based on its intrinsic value.
 
@@ -75,7 +75,7 @@ Options are probabilistic instruments, meaning their value reflects the likeliho
 - The time remaining until expiration, which affects how much time the stock has to move.
 
 For example:
-- If a stock is trading at $95 and a call option has a strike price of $100, the option might still have value because there is a chance the stock price could rise above $100 before expiration.
+- If a stock is trading at \$95 and a call option has a strike price of \$100, the option might still have value because there is a chance the stock price could rise above \$100 before expiration.
 - The further away the stock price is from the strike price, the lower the probability of the option being profitable, and thus the lower its value.
 
 ---
