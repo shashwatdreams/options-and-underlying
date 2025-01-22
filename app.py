@@ -93,6 +93,7 @@ This leverage makes options highly responsive to changes in the stock price, whi
 Options derive their value from the underlying stock because their profitability depends entirely on how the stock price behaves relative to the strike price. Intrinsic value reflects the current profitability of exercising the option, while time value and volatility account for the potential for future price movements. Factors like interest rates and probability models further refine the option’s price to reflect real-world financial behavior. Together, these factors explain why options are such versatile and dynamic financial instruments, closely tied to the underlying stock price.
 """
 
+st.markdown(detailed_explanation)
 
 st.sidebar.header("Model Parameters")
 K = st.sidebar.slider("Strike Price (K)", 50, 150, 100)
